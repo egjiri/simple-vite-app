@@ -1,0 +1,13 @@
+{
+  "name": "simple-vite-app",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "author": "Endri Gjiri <egjiri@gmail.com>",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "@packages/add": "workspace:*",
+    "vite": "^4.4.9"
+  }
+}

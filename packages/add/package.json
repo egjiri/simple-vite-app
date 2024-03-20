@@ -1,0 +1,9 @@
+{
+  "name": "@packages/add",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "author": "Endri Gjiri <egjiri@gmail.com>",
+  "license": "MIT"
+}
